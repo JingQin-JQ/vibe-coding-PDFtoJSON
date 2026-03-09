@@ -1,8 +1,8 @@
 {
-  "Order ID": 10445,
+  "Order ID": "10445",
   "Customer ID": "BERGS",
   "Order Date": "2017-02-13",
-  "Contact Name": null,
+  "Contact Name": "Berglunds snabbköp",
   "Address": "Berguvsvägen  8",
   "City": "Luleå",
   "Postal Code": "S-958 22",
